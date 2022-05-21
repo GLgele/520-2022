@@ -103,7 +103,7 @@ let textone = document.querySelector('.textone').querySelector('h1');
         textone.style.color = '#E8F9FD';
         textone.style.fontFamily = '楷体'
         text.innerHTML = '';
-    },28000)
+    },3000)
 
 
 
